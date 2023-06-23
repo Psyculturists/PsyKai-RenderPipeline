@@ -1,0 +1,12 @@
+{
+    "name": "com.psyculturists.psy-kai-renderer",
+    "version": "0.0.1",
+    "description": "Custom render pipeline created for the PsyKai project",
+    "displayName": "PsyKai Render Pipeline",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.render-pipelines.core": "14.0.8",
+        "com.unity.shadergraph": "14.0.8"
+    }
+}
